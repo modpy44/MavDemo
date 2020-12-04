@@ -1,0 +1,3 @@
+/home/fares/Desktop/mavproject/build/CMakeFiles/rebuild_cache.dir
+/home/fares/Desktop/mavproject/build/CMakeFiles/edit_cache.dir
+/home/fares/Desktop/mavproject/build/CMakeFiles/test.dir

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fares/Desktop/mavproject/testvisionplanner.cpp
+iostream
+-
+thread
+-
+chrono
+-
+mavsdk/mavsdk.h
+-
+mavsdk/plugins/action/action.h
+-
+mavsdk/plugins/telemetry/telemetry.h
+-
+mavsdk/plugins/mission/mission.h
+-
+future
+-
+
